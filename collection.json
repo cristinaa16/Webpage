@@ -1,11 +1,17 @@
 [
   {
-    "id": "Border Collie",
-    "title": "Border Collie",
-    "description": "something...",
-    "image": "bordercolliepic.webp",
-    "size": "medium",
-    "category": "Outerwear"
+    "Dog breed":"Labrador Retriever",
+    "Description":"Friendly, outgoing, and versatile; a great family dog.",
+    "AKC group":"Sporting",
+    "Size":"Large",
+    "Temperament":"Friendly, Energetic, Outgoing",
+    "Average lifespan":"10-12 years",
+    "Shedding level":"High",
+    "Exercise needs":"High",
+    "Trainability ":"Very high",
+    "Good for apartments":"No",
+    "Hypoallergenic":"No",
+    "image":"labpic.png"
   },
   {
     "id": "blue-sneakers",
