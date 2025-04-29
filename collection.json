@@ -1,10 +1,10 @@
 [
   {
-    "id": "red-jacket",
-    "title": "Red Jacket",
-    "description": "A Simple Red Jacket",
+    "id": "Border Collie",
+    "title": "Border Collie",
+    "description": "something...",
     "image": "sweater.png",
-    "brand": "FashionCo",
+    "size": "medium",
     "category": "Outerwear"
   },
   {
