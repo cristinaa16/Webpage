@@ -17,4 +17,18 @@ img {
 
 p {
     font-size: 18px;
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: left;
 }
+
+ul li {
+  margin-bottom: 12px; /* adds vertical space between each attribute */
+  line-height: 1.6;     /* adds line spacing for readability */
+  font-size: 18px;
+}
+
