@@ -11,7 +11,7 @@
     "Trainability ":"High",
     "Good for apartments":"no",
     "Hypoallergenic":"no",
-    "image":"AiredaleTerrier.jpg"
+    "image":"AiredaleTerrier.jpg",
     "id": "airedale-terrier"
   },
   {
@@ -26,7 +26,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"Akita.jpg"
+    "image":"Akita.jpg",
     "id": "akita"
   },
   {
@@ -41,7 +41,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"no",
     "Hypoallergenic":"no",
-    "image":"AlaskanMalamute.webp"
+    "image":"AlaskanMalamute.webp",
     "id": "alaskan-malamute"
   },
   {
@@ -56,7 +56,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"AmericanEskimo.jpg"
+    "image":"AmericanEskimo.jpg",
     "id": "american-eskimo-dog"
   },
   {
@@ -71,7 +71,7 @@
     "Trainability ":"Very High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"AusCattle.jpg"
+    "image":"AusCattle.jpg",
     "id": "australian-cattle-dog"
   },
   {
@@ -86,7 +86,7 @@
     "Trainability ":"Very High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"aussie.png"
+    "image":"aussie.png",
     "id": "australian-shepherd"
   },
   {
@@ -101,7 +101,7 @@
     "Trainability ":"Low to Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"bassethound.jpg"
+    "image":"bassethound.jpg",
     "id": "basset-hound"
   },
   {
@@ -116,7 +116,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"beagle.webp"
+    "image":"beagle.webp",
     "id": "beagle"
   },
   {
@@ -131,7 +131,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"Bmountain.jpg"
+    "image":"Bmountain.jpg",
     "id": "bernese-mountain-dog"
   },
   {
@@ -146,7 +146,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
-    "image":"BichonFrise.webp"
+    "image":"BichonFrise.webp",
     "id": "bichon-frise"
   },
   {
@@ -161,7 +161,7 @@
     "Trainability ":"Very High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"Bordercollie.webp"
+    "image":"Bordercollie.webp",
     "id": "border-collie"
   },
   {
@@ -176,7 +176,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"Bostonterrier.webp"
+    "image":"Bostonterrier.webp",
     "id": "boston-terrier"
   },
   {
@@ -191,7 +191,7 @@
     "Trainability ":"High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"boxer.jpg"
+    "image":"boxer.jpg",
     "id": "boxer"
   },
   {
@@ -206,7 +206,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"bulldog.jpg"
+    "image":"bulldog.jpg",
     "id": "bulldog"
   },
   {
@@ -221,7 +221,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"Bullmastiff.jpg"
+    "image":"Bullmastiff.jpg",
     "id": "bullmastiff"
   },
   {
@@ -236,7 +236,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"CavalierSpaniel.avif"
+    "image":"CavalierSpaniel.avif",
     "id": "cavalier-king-charles-spaniel"
   },
   {
@@ -251,7 +251,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"Chihuahua.avif"
+    "image":"Chihuahua.avif",
     "id": "chihuahua"
   },
   {
@@ -266,7 +266,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"CSpaniel.jpg"
+    "image":"CSpaniel.jpg",
     "id": "cocker-spaniel"
   },
   {
@@ -281,7 +281,7 @@
     "Trainability ":"High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"collie.jpg"
+    "image":"collie.jpg",
     "id": "collie"
   },
   {
@@ -296,7 +296,7 @@
     "Trainability ":"High",
     "Good for apartments":"no",
     "Hypoallergenic":"yes",
-    "image":"CurlyRetriever.webp"
+    "image":"CurlyRetriever.webp",
     "id": "curly-coated-retriever"
   },
   {
@@ -311,7 +311,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"dachshund.jpg"
+    "image":"dachshund.jpg",
     "id": "dachshund"
   },
   {
@@ -326,7 +326,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"no",
     "Hypoallergenic":"no",
-    "image":"Dalmatian.webp"
+    "image":"Dalmatian.webp",
     "id": "dalmatian"
   },
   {
@@ -341,7 +341,7 @@
     "Trainability ":"Very High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"DPinscher.png"
+    "image":"DPinscher.png",
     "id": "doberman-pinscher"
   },
   {
@@ -356,7 +356,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"ES-Spaniel.jpg"
+    "image":"ES-Spaniel.jpg",
     "id": "english-springer-spaniel"
   },
   {
@@ -371,7 +371,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"frenchbulldog.avif"
+    "image":"frenchbulldog.avif",
     "id": "french-bulldog"
   },
   {
@@ -386,7 +386,7 @@
     "Trainability ":"Very High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"GShep.webp"
+    "image":"GShep.webp",
     "id": "german-shepherd"
   },
   {
@@ -401,7 +401,7 @@
     "Trainability ":"Very High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"GRpic.jpg"
+    "image":"GRpic.jpg",
     "id": "golden-retriever"
   },
   {
@@ -416,7 +416,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"greatdane.webp"
+    "image":"greatdane.webp",
     "id": "great-dane"
   },
   {
@@ -431,7 +431,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"no",
     "Hypoallergenic":"no",
-    "image":"GreatPyrenees.jpg"
+    "image":"GreatPyrenees.jpg",
     "id": "great-pyrenees"
   },
   {
@@ -446,7 +446,7 @@
     "Trainability ":"High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"IrishSetter.avif"
+    "image":"IrishSetter.avif",
     "id": "irish-setter"
   },
   {
@@ -461,7 +461,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"ItalianGreyhound.avif"
+    "image":"ItalianGreyhound.avif",
     "id": "italian-greyhound"
   },
   {
@@ -476,7 +476,7 @@
     "Trainability ":"Very high",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"LabR.jpg"
+    "image":"LabR.jpg",
     "id": "labrador-retriever"
   },
   {
@@ -491,7 +491,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
-    "image":"Maltese.webp"
+    "image":"Maltese.webp",
     "id": "maltese"
   },
   {
@@ -506,7 +506,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
-    "image":"MiniSchnauzer.avif"
+    "image":"MiniSchnauzer.avif",
     "id": "miniature-schnauzer"
   },
   {
@@ -521,7 +521,7 @@
     "Trainability ":"Very High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"Papillon.webp"
+    "image":"Papillon.webp",
     "id": "papillon"
   },
   {
@@ -536,7 +536,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"pwcorgi.avif"
+    "image":"pwcorgi.avif",
     "id": "pembroke-welsh-corgi"
   },
   {
@@ -551,7 +551,7 @@
     "Trainability ":"High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"Pointer.jpeg"
+    "image":"Pointer.jpeg",
     "id": "pointer"
   },
   {
@@ -566,7 +566,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"Pomeranian.webp"
+    "image":"Pomeranian.webp",
     "id": "pomeranian"
   },
   {
@@ -581,7 +581,7 @@
     "Trainability ":"Very High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
-    "image":"poodle.jpg"
+    "image":"poodle.jpg",
     "id": "poodle"
   },
   {
@@ -596,7 +596,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"yes",
-    "image":"PortWaterDog.avif"
+    "image":"PortWaterDog.avif",
     "id": "portuguese-water-dog"
   },
   {
@@ -611,7 +611,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"pug.webp"
+    "image":"pug.webp",
     "id": "pug"
   },
   {
@@ -626,7 +626,7 @@
     "Trainability ":"High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"rottweiler.webp"
+    "image":"rottweiler.webp",
     "id": "rottweiler"
   },
   {
@@ -641,7 +641,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"ScotTerrier.jpg"
+    "image":"ScotTerrier.jpg",
     "id": "scottish-terrier"
   },
   {
@@ -656,7 +656,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
-    "image":"ShibaInu.avif"
+    "image":"ShibaInu.avif",
     "id": "shiba-inu"
   },
   {
@@ -671,7 +671,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
-    "image":"ShihTzu.avif"
+    "image":"ShihTzu.avif",
     "id": "shih-tzu"
   },
   {
@@ -686,7 +686,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"sibhusky.webp"
+    "image":"sibhusky.webp",
     "id": "siberian-husky"
   },
   {
@@ -701,7 +701,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"StBernard.webp"
+    "image":"StBernard.webp",
     "id": "st.-bernard"
   },
   {
@@ -716,7 +716,7 @@
     "Trainability ":"High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"Weimaraner.webp"
+    "image":"Weimaraner.webp",
     "id": "weimaraner"
   },
   {
@@ -731,7 +731,7 @@
     "Trainability ":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
-    "image":"WhiteTerrior"
+    "image":"WhiteTerrior",
     "id": "west-highland-white-terrier"
   },
   {
@@ -746,7 +746,7 @@
     "Trainability ":"High",
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
-    "image":"YorkshireTerrier.webp"
+    "image":"YorkshireTerrier.webp",
     "id": "yorkshire-terrier"
   }
 ]
