@@ -6,9 +6,10 @@ document.addEventListener("DOMContentLoaded", function () {
     .then((response) => response.json())
     .then((data) => {
       const item = data.find((breed) => breed.id === itemId);
+
       if (item) {
-        document.getElementById("item-title").innerText = item["Dog breed"];
         document.getElementById("page-title").innerText = item["Dog breed"];
+        document.getElementById("item-title").innerText = item["Dog breed"];
         document.getElementById("item-image").src = item.image;
         document.getElementById("item-description").innerText = item.description;
         document.getElementById("item-akc").innerText = item["AKC group"];
@@ -21,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("item-apartments").innerText = item["Good for apartments"];
         document.getElementById("item-hypoallergenic").innerText = item.Hypoallergenic;
 
-        // Schema.org metadata
+        // Add schema.org JSON-LD metadata to the page
         const jsonLd = {
           "@context": "https://schema.org",
           "@type": "Thing",
