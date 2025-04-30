@@ -18,17 +18,30 @@ img {
 p {
     font-size: 18px;
 
+#item-image {
+  max-width: 300px;
+  margin: 20px auto;
+  display: block;
+  border-radius: 10px;
+}
+
+#item-description {
+  font-size: 18px;
+  margin: 15px auto;
+  line-height: 1.6;
+  max-width: 600px;
+}
+
 ul {
-  list-style-type: none;
+  list-style: none;
   padding: 0;
-  max-width: 500px;
   margin: 0 auto;
+  max-width: 500px;
   text-align: left;
 }
 
 ul li {
-  margin-bottom: 12px; /* adds vertical space between each attribute */
-  line-height: 1.6;     /* adds line spacing for readability */
   font-size: 18px;
+  margin-bottom: 12px;
+  line-height: 1.6;
 }
-
