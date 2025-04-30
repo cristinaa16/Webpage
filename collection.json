@@ -48,7 +48,7 @@
     "Dog breed":"American Eskimo Dog",
     "Description":"Friendly and alert; a smart and beautiful companion.",
     "AKC group":"Non-Sporting",
-    "Size":"Medium",
+    "Size":"Small to Medium",
     "Temperament":"Friendly, Alert, Intelligent",
     "Average lifespan":"12-15 years",
     "Shedding level":"High",
@@ -86,7 +86,7 @@
     "Trainability":"Very High",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"aussie.png",
+    "image":"Aussie.png",
     "id": "australian-shepherd"
   },
   {
@@ -686,7 +686,7 @@
     "Trainability":"Moderate",
     "Good for apartments":"No",
     "Hypoallergenic":"No",
-    "image":"sibhusky.webp",
+    "image":"Sibhusky.webp",
     "id": "siberian-husky"
   },
   {
@@ -731,7 +731,7 @@
     "Trainability":"Moderate",
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
-    "image":"WhiteTerrior",
+    "image":"WhiteTerrior.avif",
     "id": "west-highland-white-terrier"
   },
   {
