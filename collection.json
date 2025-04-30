@@ -1,6 +1,5 @@
 [
   {
-    "id": "airedale-terrier"
     "Dog breed":"Airedale Terrier",
     "Description":"The largest of terriers; confident and courageous.",
     "AKC group":"Terrier",
@@ -13,6 +12,7 @@
     "Good for apartments":"no",
     "Hypoallergenic":"no",
     "image":"AiredaleTerrier.jpg"
+    "id": "airedale-terrier"
   },
   {
     "Dog breed":"Akita",
@@ -27,6 +27,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"Akita.jpg"
+    "id": "akita"
   },
   {
     "Dog breed":"Alaskan Malamute",
@@ -41,6 +42,7 @@
     "Good for apartments":"no",
     "Hypoallergenic":"no",
     "image":"AlaskanMalamute.webp"
+    "id": "alaskan-malamute"
   },
   {
     "Dog breed":"American Eskimo Dog",
@@ -55,6 +57,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"AmericanEskimo.jpg"
+    "id": "american-eskimo-dog"
   },
   {
     "Dog breed":"Australian Cattle Dog",
@@ -69,6 +72,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"AusCattle.jpg"
+    "id": "australian-cattle-dog"
   },
   {
     "Dog breed":"Australian Shepherd",
@@ -83,6 +87,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"aussie.png"
+    "id": "australian-shepherd"
   },
   {
     "Dog breed":"Basset Hound",
@@ -97,6 +102,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"bassethound.jpg"
+    "id": "basset-hound"
   },
   {
     "Dog breed":"Beagle",
@@ -111,6 +117,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"beagle.webp"
+    "id": "beagle"
   },
   {
     "Dog breed":"Bernese Mountain Dog",
@@ -125,6 +132,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"Bmountain.jpg"
+    "id": "bernese-mountain-dog"
   },
   {
     "Dog breed":"Bichon Frise",
@@ -139,6 +147,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
     "image":"BichonFrise.webp"
+    "id": "bichon-frise"
   },
   {
     "Dog breed":"Border Collie",
@@ -153,6 +162,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"Bordercollie.webp"
+    "id": "border-collie"
   },
   {
     "Dog breed":"Boston Terrier",
@@ -167,6 +177,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"Bostonterrier.webp"
+    "id": "boston-terrier"
   },
   {
     "Dog breed":"Boxer",
@@ -181,6 +192,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"boxer.jpg"
+    "id": "boxer"
   },
   {
     "Dog breed":"Bulldog",
@@ -195,6 +207,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"bulldog.jpg"
+    "id": "bulldog"
   },
   {
     "Dog breed":"Bullmastiff",
@@ -209,6 +222,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"Bullmastiff.jpg"
+    "id": "bullmastiff"
   },
   {
     "Dog breed":"Cavalier King Charles Spaniel",
@@ -223,6 +237,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"CavalierSpaniel.avif"
+    "id": "cavalier-king-charles-spaniel"
   },
   {
     "Dog breed":"Chihuahua",
@@ -237,6 +252,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"Chihuahua.avif"
+    "id": "chihuahua"
   },
   {
     "Dog breed":"Cocker Spaniel",
@@ -251,6 +267,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"CSpaniel.jpg"
+    "id": "cocker-spaniel"
   },
   {
     "Dog breed":"Collie",
@@ -265,6 +282,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"collie.jpg"
+    "id": "collie"
   },
   {
     "Dog breed":"Curly-Coated Retriever",
@@ -279,6 +297,7 @@
     "Good for apartments":"no",
     "Hypoallergenic":"yes",
     "image":"CurlyRetriever.webp"
+    "id": "curly-coated-retriever"
   },
   {
     "Dog breed":"Dachshund",
@@ -293,6 +312,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"dachshund.jpg"
+    "id": "dachshund"
   },
   {
     "Dog breed":"Dalmatian",
@@ -307,6 +327,7 @@
     "Good for apartments":"no",
     "Hypoallergenic":"no",
     "image":"Dalmatian.webp"
+    "id": "dalmatian"
   },
   {
     "Dog breed":"Doberman Pinscher",
@@ -321,6 +342,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"DPinscher.png"
+    "id": "doberman-pinscher"
   },
   {
     "Dog breed":"English Springer Spaniel",
@@ -335,6 +357,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"ES-Spaniel.jpg"
+    "id": "english-springer-spaniel"
   },
   {
     "Dog breed":"French Bulldog",
@@ -349,6 +372,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"frenchbulldog.avif"
+    "id": "french-bulldog"
   },
   {
     "Dog breed":"German Shepherd",
@@ -363,6 +387,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"GShep.webp"
+    "id": "german-shepherd"
   },
   {
     "Dog breed":"Golden Retriever",
@@ -377,6 +402,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"GRpic.jpg"
+    "id": "golden-retriever"
   },
   {
     "Dog breed":"Great Dane",
@@ -391,6 +417,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"greatdane.webp"
+    "id": "great-dane"
   },
   {
     "Dog breed":"Great Pyrenees",
@@ -405,6 +432,7 @@
     "Good for apartments":"no",
     "Hypoallergenic":"no",
     "image":"GreatPyrenees.jpg"
+    "id": "great-pyrenees"
   },
   {
     "Dog breed":"Irish Setter",
@@ -419,6 +447,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"IrishSetter.avif"
+    "id": "irish-setter"
   },
   {
     "Dog breed":"Italian Greyhound",
@@ -433,6 +462,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"ItalianGreyhound.avif"
+    "id": "italian-greyhound"
   },
   {
     "Dog breed":"Labrador Retriever",
@@ -447,6 +477,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"LabR.jpg"
+    "id": "labrador-retriever"
   },
   {
     "Dog breed":"Maltese",
@@ -461,6 +492,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
     "image":"Maltese.webp"
+    "id": "maltese"
   },
   {
     "Dog breed":"Miniature Schnauzer",
@@ -475,6 +507,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
     "image":"MiniSchnauzer.avif"
+    "id": "miniature-schnauzer"
   },
   {
     "Dog breed":"Papillon",
@@ -489,6 +522,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"Papillon.webp"
+    "id": "papillon"
   },
   {
     "Dog breed":"Pembroke Welsh Corgi",
@@ -503,6 +537,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"pwcorgi.avif"
+    "id": "pembroke-welsh-corgi"
   },
   {
     "Dog breed":"Pointer",
@@ -517,6 +552,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"Pointer.jpeg"
+    "id": "pointer"
   },
   {
     "Dog breed":"Pomeranian",
@@ -531,6 +567,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"Pomeranian.webp"
+    "id": "pomeranian"
   },
   {
     "Dog breed":"Poodle",
@@ -545,6 +582,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
     "image":"poodle.jpg"
+    "id": "poodle"
   },
   {
     "Dog breed":"Portuguese Water Dog",
@@ -559,6 +597,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"yes",
     "image":"PortWaterDog.avif"
+    "id": "portuguese-water-dog"
   },
   {
     "Dog breed":"Pug",
@@ -573,6 +612,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"pug.webp"
+    "id": "pug"
   },
   {
     "Dog breed":"Rottweiler",
@@ -587,6 +627,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"rottweiler.webp"
+    "id": "rottweiler"
   },
   {
     "Dog breed":"Scottish Terrier",
@@ -601,6 +642,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"ScotTerrier.jpg"
+    "id": "scottish-terrier"
   },
   {
     "Dog breed":"Shiba Inu",
@@ -615,6 +657,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"No",
     "image":"ShibaInu.avif"
+    "id": "shiba-inu"
   },
   {
     "Dog breed":"Shih Tzu",
@@ -629,6 +672,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
     "image":"ShihTzu.avif"
+    "id": "shih-tzu"
   },
   {
     "Dog breed":"Siberian Husky",
@@ -643,6 +687,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"sibhusky.webp"
+    "id": "siberian-husky"
   },
   {
     "Dog breed":"St. Bernard",
@@ -657,6 +702,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"StBernard.webp"
+    "id": "st.-bernard"
   },
   {
     "Dog breed":"Weimaraner",
@@ -671,6 +717,7 @@
     "Good for apartments":"No",
     "Hypoallergenic":"No",
     "image":"Weimaraner.webp"
+    "id": "weimaraner"
   },
   {
     "Dog breed":"West Highland White Terrier",
@@ -685,6 +732,7 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
     "image":"WhiteTerrior"
+    "id": "west-highland-white-terrier"
   },
   {
     "Dog breed":"Yorkshire Terrier",
@@ -699,5 +747,6 @@
     "Good for apartments":"Yes",
     "Hypoallergenic":"Yes",
     "image":"YorkshireTerrier.webp"
+    "id": "yorkshire-terrier"
   }
 ]
