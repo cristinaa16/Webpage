@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("page-title").innerText = item["Dog breed"];
         document.getElementById("item-title").innerText = item["Dog breed"];
         document.getElementById("item-image").src = "images/" + item.image;
-        document.getElementById("item-description").innerText = item.description;
+        document.getElementById("item-description").innerText = item.Description;
         document.getElementById("item-akc").innerText = item["AKC group"];
         document.getElementById("item-size").innerText = item.Size;
         document.getElementById("item-temperament").innerText = item.Temperament;
