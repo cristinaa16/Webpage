@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (item) {
         document.getElementById("page-title").innerText = item["Dog breed"];
         document.getElementById("item-title").innerText = item["Dog breed"];
-        document.getElementById("item-image").src = item.image;
+        document.getElementById("item-image").src = "images/" + item.image;
         document.getElementById("item-description").innerText = item.description;
         document.getElementById("item-akc").innerText = item["AKC group"];
         document.getElementById("item-size").innerText = item.Size;
