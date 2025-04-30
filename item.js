@@ -1,36 +1,53 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const urlParams = new URLSearchParams(window.location.search);
-    const itemId = urlParams.get('id');
+  const urlParams = new URLSearchParams(window.location.search);
+  const itemId = urlParams.get("id");
 
-    fetch("collection.json")
-        .then(response => response.json())
-        .then(data => {
-            const item = data.find(item => item.id === itemId);
-            if (item) {
-                // Update visible page content
-                document.getElementById("item-title").innerText = item.title;
-                document.getElementById("item-image").src = `images/${item.image}`;
-                document.getElementById("item-description").innerText = item.description;
-                document.getElementById("item-brand").innerText = item.brand;
-                document.getElementById("item-category").innerText = item.category;
+  fetch("collection.json")
+    .then((response) => response.json())
+    .then((data) => {
+      const item = data.find((breed) => breed.id === itemId);
+      if (item) {
+        document.getElementById("item-title").innerText = item["Dog breed"];
+        document.getElementById("page-title").innerText = item["Dog breed"];
+        document.getElementById("item-image").src = item.image;
+        document.getElementById("item-description").innerText = item.description;
+        document.getElementById("item-akc").innerText = item["AKC group"];
+        document.getElementById("item-size").innerText = item.Size;
+        document.getElementById("item-temperament").innerText = item.Temperament;
+        document.getElementById("item-lifespan").innerText = item["Average lifespan"];
+        document.getElementById("item-shedding").innerText = item["Shedding level"];
+        document.getElementById("item-exercise").innerText = item["Exercise needs"];
+        document.getElementById("item-trainability").innerText = item.Trainability;
+        document.getElementById("item-apartments").innerText = item["Good for apartments"];
+        document.getElementById("item-hypoallergenic").innerText = item.Hypoallergenic;
 
-                // Create JSON-LD metadata
-                const jsonLd = {
-                    "@context": "https://schema.org/",
-                    "@type": "Product",
-                    "name": item.title,
-                    "image": `images/${item.image}`,
-                    "description": item.description,
-                    "brand": item.brand,
-                    "category": item.category
-                };
+        // Schema.org metadata
+        const jsonLd = {
+          "@context": "https://schema.org",
+          "@type": "Thing",
+          "name": item["Dog breed"],
+          "image": item.image,
+          "description": item.description,
+          "additionalProperty": [
+            { "@type": "PropertyValue", "name": "AKC group", "value": item["AKC group"] },
+            { "@type": "PropertyValue", "name": "Size", "value": item.Size },
+            { "@type": "PropertyValue", "name": "Temperament", "value": item.Temperament },
+            { "@type": "PropertyValue", "name": "Average lifespan", "value": item["Average lifespan"] },
+            { "@type": "PropertyValue", "name": "Shedding level", "value": item["Shedding level"] },
+            { "@type": "PropertyValue", "name": "Exercise needs", "value": item["Exercise needs"] },
+            { "@type": "PropertyValue", "name": "Trainability", "value": item.Trainability },
+            { "@type": "PropertyValue", "name": "Good for apartments", "value": item["Good for apartments"] },
+            { "@type": "PropertyValue", "name": "Hypoallergenic", "value": item.Hypoallergenic }
+          ]
+        };
 
-                // Insert JSON-LD into the <head> of the document
-                const script = document.createElement("script");
-                script.type = "application/ld+json";
-                script.textContent = JSON.stringify(jsonLd);
-                document.head.appendChild(script);
-            }
-        })
-        .catch(error => console.error("Error loading JSON:", error));
+        const script = document.createElement("script");
+        script.type = "application/ld+json";
+        script.textContent = JSON.stringify(jsonLd);
+        document.head.appendChild(script);
+      } else {
+        document.body.innerHTML = "<h2>Breed not found.</h2>";
+      }
+    })
+    .catch((error) => console.error("Error loading data:", error));
 });
