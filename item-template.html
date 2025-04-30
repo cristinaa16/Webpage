@@ -1,23 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Item Name</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title id="page-title">Dog Breed</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <a href="index.html">← Back to Collection</a>
+  <div class="container">
+    <h1 id="item-title"></h1>
+    <img id="item-image" src="" alt="Dog Image" />
+    <p id="item-description"></p>
+    <ul>
+      <li><strong>AKC Group:</strong> <span id="item-akc"></span></li>
+      <li><strong>Size:</strong> <span id="item-size"></span></li>
+      <li><strong>Temperament:</strong> <span id="item-temperament"></span></li>
+      <li><strong>Average Lifespan:</strong> <span id="item-lifespan"></span></li>
+      <li><strong>Shedding Level:</strong> <span id="item-shedding"></span></li>
+      <li><strong>Exercise Needs:</strong> <span id="item-exercise"></span></li>
+      <li><strong>Trainability:</strong> <span id="item-trainability"></span></li>
+      <li><strong>Good for Apartments:</strong> <span id="item-apartments"></span></li>
+      <li><strong>Hypoallergenic:</strong> <span id="item-hypoallergenic"></span></li>
+    </ul>
+  </div>
 
-    <h1 id="item-title">Loading...</h1>
-    <img id="item-image" src="" alt="Item Image" width="300">
-    <p id="item-description">Loading description...</p>
-
-    <div id="metadata-box">
-        <p><strong>Brand:</strong> <span id="item-brand">Loading...</span></p>
-        <p><strong>Category:</strong> <span id="item-category">Loading...</span></p>
-    </div>
-
-    <script src="item.js"></script>
+  <script src="item.js"></script>
 </body>
 </html>
