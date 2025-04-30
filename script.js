@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
         let div = document.createElement("div");
         div.innerHTML = `
           <h2>${item["Dog breed"]}</h2>
-          <p>${item.description}</p>
+          <p>${item.Description}</p>
           <a href="item.html?id=${item.id}">View More</a>
         `;
         container.appendChild(div);
